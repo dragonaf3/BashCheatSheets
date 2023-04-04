@@ -21,3 +21,6 @@ Cheat Sheet - Scripting
 Fürs Scripting:
 - https://www.mycompiler.io/new/bash
 - https://www.shellcheck.net/
+
+Sonstiges Hilfreiches:
+- https://cmdgenerator.phphe.com/
