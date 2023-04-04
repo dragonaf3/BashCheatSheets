@@ -25,3 +25,4 @@ Fürs Scripting:
 Sonstiges Hilfreiches:
 - https://quickref.me/sed.html
 - https://cmdgenerator.phphe.com/
+- "awk -F ',' '{print $1,$3}' file.csv" 
