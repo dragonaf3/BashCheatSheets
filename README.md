@@ -23,4 +23,5 @@ Fürs Scripting:
 - https://www.shellcheck.net/
 
 Sonstiges Hilfreiches:
+- https://quickref.me/sed.html
 - https://cmdgenerator.phphe.com/
